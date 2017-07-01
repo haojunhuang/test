@@ -3,7 +3,8 @@ void main()
 {
   while(1)
   {
-  
+    if(time>100)
+     P0=1;
   }
  
 }
